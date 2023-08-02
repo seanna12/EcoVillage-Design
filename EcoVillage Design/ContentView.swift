@@ -38,8 +38,10 @@ struct ContentView: View {
                     }
                 }
             }
-            Text("Select an item")
+            Text("EcoVillage Start")
+            
         }
+            
     }
 
     private func addItem() {
